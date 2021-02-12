@@ -1,0 +1,53 @@
+html{
+	background-color: black;
+}
+
+*{
+	font-family: 'Montserrat Alternates', sans-serif;
+}
+
+header{
+	background-color: black;
+	padding: 8px;
+}
+
+ul{
+	list-style: none;
+
+}
+
+li{
+	display: inline;
+	margin:150px;
+}
+
+li a {
+	color: white;
+	text-decoration: none;
+}
+
+li a:hover{
+	color: red;
+}
+
+.heading1{
+	color: red;
+	text-align: center;
+}
+
+button{
+	background-color: black;
+	color: red;
+	border: 1px solid red
+}
+
+footer{
+	color: white;
+	text-align: center;
+	
+}
+
+.text1{
+	color: white;
+	text-align: center;
+}
